@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Kseniia — a full stack developer with a passion for turning real-world problems into clean, clever code. 💡 🔭 Currently building AI-powered tools for businesses   🌱 Always learning something new — especially in AI/ML and full-stack dev  📫 Reach out via [LinkedIn](https://linkedin.com/in/ksenia-kondrat) or email me at oootlichno@gmail.com  
+## Hi there! 👋 I'm Kseniia — a Full Stack AI/ML developer with a passion for turning real-world problems into clean, clever code. 💡 🔭 Currently building AI-powered tools for businesses   🌱 Always learning something new — especially in AI/ML and full-stack dev  📫 Reach out via [LinkedIn](https://linkedin.com/in/ksenia-kondrat) or email me at oootlichno@gmail.com  
 
 
 
